@@ -1,0 +1,10 @@
+pytest
+astor
+rich
+dotenv
+flake8
+black
+pre-commit
+coverage
+django
+pytest-django
